@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fulfordpr.github.io/hello-react/static/css/main.b93d753e.chunk.css",
+    "main.js": "/fulfordpr.github.io/hello-react/static/js/main.9747182a.chunk.js",
+    "main.js.map": "/fulfordpr.github.io/hello-react/static/js/main.9747182a.chunk.js.map",
+    "runtime-main.js": "/fulfordpr.github.io/hello-react/static/js/runtime-main.70015ab6.js",
+    "runtime-main.js.map": "/fulfordpr.github.io/hello-react/static/js/runtime-main.70015ab6.js.map",
+    "static/js/2.857b671c.chunk.js": "/fulfordpr.github.io/hello-react/static/js/2.857b671c.chunk.js",
+    "static/js/2.857b671c.chunk.js.map": "/fulfordpr.github.io/hello-react/static/js/2.857b671c.chunk.js.map",
+    "static/js/3.11ef4e34.chunk.js": "/fulfordpr.github.io/hello-react/static/js/3.11ef4e34.chunk.js",
+    "static/js/3.11ef4e34.chunk.js.map": "/fulfordpr.github.io/hello-react/static/js/3.11ef4e34.chunk.js.map",
+    "index.html": "/fulfordpr.github.io/hello-react/index.html",
+    "static/css/main.b93d753e.chunk.css.map": "/fulfordpr.github.io/hello-react/static/css/main.b93d753e.chunk.css.map",
+    "static/js/2.857b671c.chunk.js.LICENSE.txt": "/fulfordpr.github.io/hello-react/static/js/2.857b671c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70015ab6.js",
+    "static/js/2.857b671c.chunk.js",
+    "static/css/main.b93d753e.chunk.css",
+    "static/js/main.9747182a.chunk.js"
+  ]
+}
