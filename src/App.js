@@ -25,7 +25,7 @@ class App extends Component {
       <div className="App">
         <HelloReact onActivation={this.incrementReactNumber}/>
         <GoodJob clicks={this.state.reactNumber}/>
-        <WhatIsAComponent/>
+        <WhatIsAComponent clicks={this.state.reactNumber}/>
 
       </div>
     );

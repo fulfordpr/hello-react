@@ -2,7 +2,7 @@
   "name": "hello-react",
   "version": "0.1.0",
   "private": true,
-  "homepage":"fulfordpr.github.io/hello-react",
+  "homepage":"fulfordpr.github.io/hello-react/",
   "dependencies": {
     "@craco/craco": "^6.4.2",
     "@testing-library/jest-dom": "^5.16.1",
@@ -19,7 +19,9 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

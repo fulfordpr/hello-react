@@ -5,7 +5,6 @@ class GoodJob extends Component {
     super(props);
     this.state = {
       message: "Each section with a dotted border it's own component",
-      clicks: this.props.clicks
     };
   }
 
